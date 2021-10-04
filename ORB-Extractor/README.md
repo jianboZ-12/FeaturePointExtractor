@@ -4,7 +4,7 @@ Orb-feature extractor code from [orbslam2 project](https://github.com/raulmur/OR
 (https://github.com/slaming/ORBExtractor)
 
 # 1. Prerequisites
-**Ubuntu 18.04**
+## Ubuntu 18.04**
  
 ## C++11 or C++0x Compiler
 
@@ -12,6 +12,7 @@ Orb-feature extractor code from [orbslam2 project](https://github.com/raulmur/OR
 
 # 2. Building this library and examples(main.cpp)
 
+```
 cd ORBExtractor
 ```
 ```
